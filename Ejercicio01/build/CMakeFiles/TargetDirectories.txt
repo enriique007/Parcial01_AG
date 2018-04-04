@@ -1,0 +1,3 @@
+/home/misael/Escritorio/Parcial1_JB14002_AG/Ejercicio01/build/CMakeFiles/rebuild_cache.dir
+/home/misael/Escritorio/Parcial1_JB14002_AG/Ejercicio01/build/CMakeFiles/edit_cache.dir
+/home/misael/Escritorio/Parcial1_JB14002_AG/Ejercicio01/build/CMakeFiles/hello.dir
